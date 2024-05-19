@@ -30,16 +30,16 @@ This system automates all library activities, including:
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 1](screenshots/screenshot3.png)
-![Screenshot 2](screenshots/screenshot4.png)
-![Screenshot 1](screenshots/screenshot5.png)
-![Screenshot 2](screenshots/screenshot6.png)
-![Screenshot 1](screenshots/screenshot7.png)
-![Screenshot 2](screenshots/screenshot8.png)
-![Screenshot 1](screenshots/screenshot9.png)
-![Screenshot 2](screenshots/screenshot10.png)
+![Screenshot 1](https://github.com/MuhammadNoman76/Library-Management-System-in-Java-using-Filing-System-and-Java-Swing/blob/main/screenshots/screenshot1.png)
+![Screenshot 2](https://github.com/MuhammadNoman76/Library-Management-System-in-Java-using-Filing-System-and-Java-Swing/blob/main/screenshots/screenshot2.png)
+![Screenshot 3](https://github.com/MuhammadNoman76/Library-Management-System-in-Java-using-Filing-System-and-Java-Swing/blob/main/screenshots/screenshot3.png)
+![Screenshot 4](https://github.com/MuhammadNoman76/Library-Management-System-in-Java-using-Filing-System-and-Java-Swing/blob/main/screenshots/screenshot4.png)
+![Screenshot 5](https://github.com/MuhammadNoman76/Library-Management-System-in-Java-using-Filing-System-and-Java-Swing/blob/main/screenshots/screenshot5.png)
+![Screenshot 6](https://github.com/MuhammadNoman76/Library-Management-System-in-Java-using-Filing-System-and-Java-Swing/blob/main/screenshots/screenshot6.png)
+![Screenshot 7](https://github.com/MuhammadNoman76/Library-Management-System-in-Java-using-Filing-System-and-Java-Swing/blob/main/screenshots/screenshot7.png)
+![Screenshot 8](https://github.com/MuhammadNoman76/Library-Management-System-in-Java-using-Filing-System-and-Java-Swing/blob/main/screenshots/screenshot8.png)
+![Screenshot 9](https://github.com/MuhammadNoman76/Library-Management-System-in-Java-using-Filing-System-and-Java-Swing/blob/main/screenshots/screenshot9.png)
+![Screenshot 10](https://github.com/MuhammadNoman76/Library-Management-System-in-Java-using-Filing-System-and-Java-Swing/blob/main/screenshots/screenshot10.png)
 
 ## Project Creator
 
@@ -48,7 +48,6 @@ This system automates all library activities, including:
 ## Report
 
 [Link to project report](https://github.com/MuhammadNoman76/Library-Management-System-in-Java-using-Filing-System-and-Java-Swing/blob/main/Report/Project%20Report.docx)
-
 
 ## License
 
@@ -64,4 +63,4 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 ## Issues
 
-Note: Replace the placeholders (`your-username` and `your-repo-name`) with your actual GitHub username and repository name. Also, add the screenshots and report files to the repository.
+[Link to issues](https://github.com/MuhammadNoman76/Library-Management-System-in-Java-using-Filing-System-and-Java-Swing/issues)
