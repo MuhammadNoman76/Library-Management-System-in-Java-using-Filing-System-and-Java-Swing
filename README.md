@@ -41,23 +41,22 @@ This system automates all library activities, including:
 ![Screenshot 1](screenshots/screenshot9.png)
 ![Screenshot 2](screenshots/screenshot10.png)
 
-## Group Members
+## Project Creator
 
-- **Muhammad Noman** (Group Leader)
-- Muhammad Moiz Nasir
-- Maida Saeed
-
+- **Muhammad Noman**
+ 
 ## Report
 
-[Link to project report]
+[Link to project report](https://github.com/MuhammadNoman76/Library-Management-System-in-Java-using-Filing-System-and-Java-Swing/blob/main/Report/Project%20Report.docx)
+
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the Apache License.
 
 ## Acknowledgments
 
-- [List any external resources or libraries used]
+- Java Swing
 
 ## Contributing
 
