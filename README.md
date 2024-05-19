@@ -30,8 +30,16 @@ This system automates all library activities, including:
 
 ## Screenshots
 
-![Screenshot 1](/path/to/screenshot1.png)
-![Screenshot 2](/path/to/screenshot2.png)
+![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 1](screenshots/screenshot3.png)
+![Screenshot 2](screenshots/screenshot4.png)
+![Screenshot 1](screenshots/screenshot5.png)
+![Screenshot 2](screenshots/screenshot6.png)
+![Screenshot 1](screenshots/screenshot7.png)
+![Screenshot 2](screenshots/screenshot8.png)
+![Screenshot 1](screenshots/screenshot9.png)
+![Screenshot 2](screenshots/screenshot10.png)
 
 ## Group Members
 
